@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
-		<em:id>prpl-ml@alexandersalas.name</em:id>
+		<em:id>prpl-meli@alexandersalas.name</em:id>
 		<em:unpack>true</em:unpack>
 		<em:name>MercadoLibre Protocol</em:name>
 		<em:version>0.1</em:version>
 		<em:creator>Alexander Salas</em:creator>
 		<em:translator>Fatma Youssef</em:translator>
 		<em:homepageURL>http://alexandersalas.name/</em:homepageURL>
-		<em:iconURL>chrome://prpl-ml/skin/icon48.png</em:iconURL>
-		<em:icon64URL>chrome://prpl-ml/skin/icon64.png</em:icon64URL>
+		<em:iconURL>chrome://prpl-meli/skin/icon48.png</em:iconURL>
+		<em:icon64URL>chrome://prpl-meli/skin/icon64.png</em:icon64URL>
 		<em:localized>
 			<Description>
 				<em:locale>en-US</em:locale>

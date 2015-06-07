@@ -1,7 +1,7 @@
-component {9f8dcea5-3816-43aa-94ca-32dedb715f3e} components/prpl-ml.js
-contract @mozilla.org/chat/ml;1 {9f8dcea5-3816-43aa-94ca-32dedb715f3e}
-category im-protocol-plugin prpl-ml @mozilla.org/chat/ml;1
+component {9f8dcea5-3816-43aa-94ca-32dedb715f3e} components/prpl-meli.js
+contract @mozilla.org/chat/meli;1 {9f8dcea5-3816-43aa-94ca-32dedb715f3e}
+category im-protocol-plugin prpl-meli @mozilla.org/chat/meli;1
 
-skin prpl-ml     classic/1.0 chrome/skin/
+skin prpl-meli     classic/1.0 chrome/skin/
 
-locale prpl-ml en-US chrome/locale/en-US/
+locale prpl-meli en-US chrome/locale/en-US/
